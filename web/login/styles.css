@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: #e8e0d4; /* bege claro estilo fundo Scooby-Doo */
+  padding: 20px;
+}
+
+header {
+  width: 100%;
+  background-color: #4b2e05; /* marrom escuro Scooby */
+  padding: 30px 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffcc66; /* dourado/mostarda típico da logo */
+}
+
+header h1 {
+  font-size: 1.3em;
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin: 0;
+  text-transform: uppercase;
+  color: #ffcc66;
+}
+
+h1 {
+  margin-top: 60px;
+  margin-bottom: 20px;
+  color: #3a2a00;
+}
+
+form {
+  background: #ffffff;
+  padding: 30px 40px;
+  border-radius: 10px;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+  width: 320px;
+  border: 2px solid #00b3b3; /* azul turquesa clássico do Scooby */
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  color: #3a2a00;
+  font-weight: 600;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px 12px;
+  margin-bottom: 20px;
+  border: 1.5px solid #b59a6b;
+  border-radius: 6px;
+  font-size: 1em;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus {
+  border-color: #00b3b3;
+  box-shadow: 0 0 0 3px rgba(0, 179, 179, 0.2);
+  outline: none;
+}
+
+button {
+  width: 100%;
+  padding: 12px;
+  background-color: #00b3b3;
+  color: #fff;
+  font-size: 1.1em;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background-color: #009999;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transform: translateY(-2px);
+}
+
+button:active {
+  transform: translateY(0);
+}
