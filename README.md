@@ -101,5 +101,5 @@ O servidor estará disponível em `http://localhost:3001`.
 ![Cadastro Turma](<imagens/Captura de tela 2025-10-24 110237.png>)
 ### Tela Atividades
 
-![Tela Atividades](<imagens/Captura de tela 2025-10-24 110237.png>)
+![Tela Atividades](https://github.com/Olavomarques/escolaavaliacao-mobile/blob/30d6176e7cb90134e07f957319b6b5cd62a987f5/imagens/atividade%20turma.png)
 
