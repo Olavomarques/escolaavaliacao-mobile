@@ -89,16 +89,17 @@ O servidor estará disponível em `http://localhost:3001`.
 
 ### Tela de Login
 
-![Tela Principal](imagens/login.png)
+![Tela Principal](https://github.com/Olavomarques/escolaavaliacao-mobile/blob/58fcf6a4d57ed6fc4c880efbcae5914b382f2caf/imagens/login.png)
 ### Tela Dashboard
 
-![Dasboard](imagens/dashboard.png)
+![Dasboard](https://github.com/Olavomarques/escolaavaliacao-mobile/blob/58fcf6a4d57ed6fc4c880efbcae5914b382f2caf/imagens/dashboard.png)
 
 ### Tela Cadastro
 
-![Cadastro de Atividade](<imagens/cadastro atividades.png>)
+![Cadastro de Atividade](https://github.com/Olavomarques/escolaavaliacao-mobile/blob/58fcf6a4d57ed6fc4c880efbcae5914b382f2caf/imagens/cadastro%20atividades.png)
 
-![Cadastro Turma](<imagens/Captura de tela 2025-10-24 110237.png>)
+### Tela  Turma
+![Cadastro Turma](https://github.com/Olavomarques/escolaavaliacao-mobile/blob/58fcf6a4d57ed6fc4c880efbcae5914b382f2caf/imagens/Captura%20de%20tela%202025-10-24%20110237.png)
 ### Tela Atividades
 
 ![Tela Atividades](https://github.com/Olavomarques/escolaavaliacao-mobile/blob/30d6176e7cb90134e07f957319b6b5cd62a987f5/imagens/atividade%20turma.png)
